@@ -1,0 +1,1249 @@
+﻿Log file open, 06/05/22 12:08:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.805120
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.075s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: "H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Pavlov.uproject" -run=cook -targetplatform=WindowsNoEditor+LinuxServer -UnVersioned -map=/Game/CustomMaps/UGC2655726196/practice_map
+LogInit: Base Directory: H:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.06.05-16.08.42:598][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.05-16.08.42:599][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:599][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.06.05-16.08.42:600][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.05-16.08.42:600][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.05-16.08.42:601][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.05-16.08.42:601][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.05-16.08.42:611][  0]LogHAL: Display: Platform has ~ 32 GB [34287779840 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2022.06.05-16.08.42:611][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.05-16.08.42:611][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.06.05-16.08.42:611][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.06.05-16.08.42:611][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Scalability.ini]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.05-16.08.42:612][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.05-16.08.42:612][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Config/Windows/Engine.ini]
+[2022.06.05-16.08.42:612][  0]LogInit: Computer: DETHCOMP
+[2022.06.05-16.08.42:612][  0]LogInit: User: Rick
+[2022.06.05-16.08.42:612][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.05-16.08.42:612][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.05-16.08.42:613][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.06.05-16.08.42:613][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.05-16.08.42:613][  0]LogMemory: Process Physical Memory: 123.64 MB used, 123.64 MB peak
+[2022.06.05-16.08.42:613][  0]LogMemory: Process Virtual Memory: 93.76 MB used, 93.76 MB peak
+[2022.06.05-16.08.42:613][  0]LogMemory: Physical Memory: 13581.86 MB used,  19117.52 MB free, 32699.38 MB total
+[2022.06.05-16.08.42:613][  0]LogMemory: Virtual Memory: 4688.30 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2022.06.05-16.08.42:680][  0]LogInit: Using OS detected language (en-US).
+[2022.06.05-16.08.42:680][  0]LogInit: Using OS detected locale (en-US).
+[2022.06.05-16.08.42:681][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.06.05-16.08.43:013][  0]LogStreaming: Display: Took  0.333s to InitEngineTextLocalization.
+[2022.06.05-16.08.43:951][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.06.05-16.08.43:963][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.06.05-16.08.43:975][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.06.05-16.08.43:987][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.06.05-16.08.44:000][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.06.05-16.08.44:012][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.06.05-16.08.44:024][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.06.05-16.08.44:036][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.06.05-16.08.44:042][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:114][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:115][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.05-16.08.44:116][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.06.05-16.08.44:176][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.06.05-16.08.44:176][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.06.05-16.08.44:201][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.06.05-16.08.44:201][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.06.05-16.08.44:212][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.06.05-16.08.44:224][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.06.05-16.08.44:239][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.06.05-16.08.44:258][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.06.05-16.08.44:304][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.06.05-16.08.44:304][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.06.05-16.08.44:305][  0]LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.06.05-16.08.44:305][  0]LogTargetPlatformManager: Display: Building Assets For LinuxServer
+[2022.06.05-16.08.44:368][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Rick/Documents/Unreal Projects/HerosHideout/Intermediate/Shaders/WorkingDirectory/26384/).
+[2022.06.05-16.08.44:369][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rick/AppData/Local/Temp/UnrealShaderWorkingDir/6241D1B243C1AAB7877BE29A4F28DD94/'.
+[2022.06.05-16.08.44:370][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.05-16.08.44:370][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.05-16.08.44:370][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.05-16.08.44:705][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.05-16.08.44:738][  0]LogDerivedDataCache: Loaded boot cache 0.03s 75MB C:/Users/Rick/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.06.05-16.08.44:738][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rick/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2022.06.05-16.08.44:738][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Rick/Documents/Unreal Projects/HerosHideout/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.05-16.08.44:738][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.05-16.08.44:738][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Rick/Documents/Unreal Projects/HerosHideout/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.05-16.08.44:738][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.05-16.08.44:750][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.05-16.08.44:750][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.05-16.08.44:750][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.05-16.08.44:762][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rick/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.05-16.08.44:762][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.05-16.08.44:762][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.05-16.08.44:775][  0]LogAssetRegistry: FAssetRegistry took 0.0108 seconds to start up
+[2022.06.05-16.08.45:035][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.05-16.08.45:065][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.06.05-16.08.45:068][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.06.05-16.08.45:068][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.05-16.08.45:068][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.05-16.08.45:068][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.06.05-16.08.45:070][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2022.06.05-16.08.45:396][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.091187 seconds
+[2022.06.05-16.08.45:478][  0]LogCollectionManager: Loaded 0 collections in 0.000759 seconds
+[2022.06.05-16.08.45:501][  0]LogFileCache: Scanning file cache for directory 'H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Saved/Collections/' took 0.01s
+[2022.06.05-16.08.45:501][  0]LogFileCache: Scanning file cache for directory 'H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Content/Developers/Rick/Collections/' took 0.01s
+[2022.06.05-16.08.45:501][  0]LogFileCache: Scanning file cache for directory 'H:/Users/Rick/Documents/Unreal Projects/HerosHideout/Content/Collections/' took 0.00s
+[2022.06.05-16.08.45:501][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.06.05-16.08.45:501][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2022.06.05-16.08.45:676][  0]LogSteamAudio: FSteamAudioModule Startup
+[2022.06.05-16.08.45:676][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2022.06.05-16.08.45:684][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2022.06.05-16.08.45:684][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2022.06.05-16.08.45:685][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2022.06.05-16.08.45:685][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2022.06.05-16.08.45:689][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2022.06.05-16.08.45:717][  0]SourceControl: Source control is disabled
+[2022.06.05-16.08.45:717][  0]SourceControl: Source control is disabled
+[2022.06.05-16.08.45:718][  0]SourceControl: Source control is disabled
+[2022.06.05-16.08.45:720][  0]SourceControl: Source control is disabled
+[2022.06.05-16.08.45:779][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.05-16.08.46:869][  0]LogOcInput: OculusInput pre-init called
+[2022.06.05-16.08.46:891][  0]LogUObjectArray: 45300 objects as part of root set at end of initial load.
+[2022.06.05-16.08.46:891][  0]LogUObjectAllocator: 8111304 out of 0 bytes used by permanent object pool.
+[2022.06.05-16.08.46:891][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.05-16.08.46:963][  0]LogInit: Executing Class /Script/UnrealEd.CookCommandlet
+[2022.06.05-16.08.46:963][  0]LogInit: Initializing Editor Engine...
+[2022.06.05-16.08.46:963][  0]LogEngine: Initializing Engine...
+[2022.06.05-16.08.46:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.06.05-16.08.46:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.06.05-16.08.46:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.06.05-16.08.46:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.06.05-16.08.47:003][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.05-16.08.47:012][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.05-16.08.47:013][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.05-16.08.47:027][  0]LogDerivedDataCache: Saved boot cache 0.01s 4MB C:/Users/Rick/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.06.05-16.08.47:027][  0]LogInit: Texture streaming: Disabled
+[2022.06.05-16.08.47:102][  0]LogInit: Initializing Editor Engine Completed
+[2022.06.05-16.08.47:102][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.06.05-16.08.47:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.06.05-16.08.47:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.06.05-16.08.47:103][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.06.05-16.08.47:103][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.06.05-16.08.47:209][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2022.06.05-16.08.47:290][  0]CustomMapToolsLog: Visiting ../../../../../../Users/Rick/Documents/Unreal Projects/HerosHideout/Content/CustomMaps/UGC2655726196
+[2022.06.05-16.08.47:290][  0]CustomMapToolsLog: Loaded UGC ID:2655726196
+[2022.06.05-16.08.47:290][  0]CustomMapToolsLog: Visiting ../../../../../../Users/Rick/Documents/Unreal Projects/HerosHideout/Content/CustomMaps/UGC2655726196
+[2022.06.05-16.08.47:303][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.06.05-16.08.47:303][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.06.05-16.08.47:303][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.06.05-16.08.47:304][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.06.05-16.08.47:304][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.06.05-16.08.47:305][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2022.06.05-16.08.47:305][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.06.05-16.08.47:306][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.06.05-16.08.47:306][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.06.05-16.08.47:306][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.06.05-16.08.47:306][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.06.05-16.08.47:309][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.06.05-16.08.47:309][  0]LogCook: Display: Mobile HDR setting 0
+[2022.06.05-16.08.47:309][  0]LogCook: Display: Creating asset registry
+[2022.06.05-16.08.47:462][  0]LogCook: Display: Discovering localized assets
+[2022.06.05-16.08.47:498][  0]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2022.06.05-16.08.47:575][  0]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2022.06.05-16.08.47:620][  0]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2022.06.05-16.08.47:686][  0]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2022.06.05-16.08.47:733][  0]LogCook: Display: Sandbox cleanup took 0.236 seconds for platforms WindowsNoEditor LinuxServer  iterative false
+[2022.06.05-16.08.48:194][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.06.05-16.08.48:798][  0]LogCook: Display: Cooked packages 0 Packages Remain 162 Total 162
+[2022.06.05-16.08.48:979][  0]LogCook: Display: Cooked packages 50 Packages Remain 161 Total 211
+[2022.06.05-16.08.49:099][  0]LogCook: Display: Cooked packages 100 Packages Remain 160 Total 260
+[2022.06.05-16.08.49:389][  0]LogCook: Display: Cooked packages 139 Packages Remain 159 Total 298
+[2022.06.05-16.08.49:397][  0]LogCook: Display: Cooked packages 140 Packages Remain 158 Total 298
+[2022.06.05-16.08.49:407][  0]LogCook: Display: Cooked packages 141 Packages Remain 157 Total 298
+[2022.06.05-16.08.49:415][  0]LogCook: Display: Cooked packages 142 Packages Remain 156 Total 298
+[2022.06.05-16.08.49:435][  0]LogCook: Display: Cooked packages 144 Packages Remain 155 Total 299
+[2022.06.05-16.08.49:445][  0]LogCook: Display: Cooked packages 145 Packages Remain 154 Total 299
+[2022.06.05-16.08.49:446][  0]LogCook: Display: Cooked packages 145 Packages Remain 153 Total 298
+[2022.06.05-16.08.49:446][  0]LogCook: Display: Cooked packages 145 Packages Remain 152 Total 297
+[2022.06.05-16.08.49:446][  0]LogCook: Display: Cooked packages 145 Packages Remain 151 Total 296
+[2022.06.05-16.08.49:446][  0]LogCook: Display: Cooked packages 145 Packages Remain 150 Total 295
+[2022.06.05-16.08.49:446][  0]LogCook: Display: Cooked packages 145 Packages Remain 149 Total 294
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 148 Total 293
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 147 Total 292
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 146 Total 291
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 145 Total 290
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 144 Total 289
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 143 Total 288
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 142 Total 287
+[2022.06.05-16.08.49:447][  0]LogCook: Display: Cooked packages 145 Packages Remain 141 Total 286
+[2022.06.05-16.08.49:448][  0]LogCook: Display: Cooked packages 145 Packages Remain 140 Total 285
+[2022.06.05-16.08.49:448][  0]LogCook: Display: Cooked packages 145 Packages Remain 139 Total 284
+[2022.06.05-16.08.49:448][  0]LogCook: Display: Cooked packages 145 Packages Remain 138 Total 283
+[2022.06.05-16.08.49:448][  0]LogCook: Display: Cooked packages 145 Packages Remain 137 Total 282
+[2022.06.05-16.08.49:448][  0]LogCook: Display: Cooked packages 145 Packages Remain 136 Total 281
+[2022.06.05-16.08.49:448][  0]LogCook: Display: Cooked packages 145 Packages Remain 135 Total 280
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 134 Total 279
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 133 Total 278
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 132 Total 277
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 131 Total 276
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 130 Total 275
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 129 Total 274
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 128 Total 273
+[2022.06.05-16.08.49:449][  0]LogCook: Display: Cooked packages 145 Packages Remain 127 Total 272
+[2022.06.05-16.08.49:450][  0]LogCook: Display: Cooked packages 145 Packages Remain 126 Total 271
+[2022.06.05-16.08.49:450][  0]LogCook: Display: Cooked packages 145 Packages Remain 125 Total 270
+[2022.06.05-16.08.49:450][  0]LogCook: Display: Cooked packages 145 Packages Remain 124 Total 269
+[2022.06.05-16.08.49:450][  0]LogCook: Display: Cooked packages 145 Packages Remain 123 Total 268
+[2022.06.05-16.08.49:450][  0]LogCook: Display: Cooked packages 145 Packages Remain 122 Total 267
+[2022.06.05-16.08.49:450][  0]LogCook: Display: Cooked packages 145 Packages Remain 121 Total 266
+[2022.06.05-16.08.49:450][  0]LogCook: Display: Cooked packages 145 Packages Remain 120 Total 265
+[2022.06.05-16.08.49:451][  0]LogCook: Display: Cooked packages 145 Packages Remain 119 Total 264
+[2022.06.05-16.08.49:451][  0]LogCook: Display: Cooked packages 145 Packages Remain 118 Total 263
+[2022.06.05-16.08.49:451][  0]LogCook: Display: Cooked packages 145 Packages Remain 117 Total 262
+[2022.06.05-16.08.49:451][  0]LogCook: Display: Cooked packages 145 Packages Remain 116 Total 261
+[2022.06.05-16.08.49:451][  0]LogCook: Display: Cooked packages 145 Packages Remain 115 Total 260
+[2022.06.05-16.08.49:451][  0]LogCook: Display: Cooked packages 145 Packages Remain 114 Total 259
+[2022.06.05-16.08.49:451][  0]LogCook: Display: Cooked packages 145 Packages Remain 113 Total 258
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 112 Total 257
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 111 Total 256
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 110 Total 255
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 109 Total 254
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 108 Total 253
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 107 Total 252
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 106 Total 251
+[2022.06.05-16.08.49:452][  0]LogCook: Display: Cooked packages 145 Packages Remain 105 Total 250
+[2022.06.05-16.08.49:453][  0]LogCook: Display: Cooked packages 145 Packages Remain 104 Total 249
+[2022.06.05-16.08.49:453][  0]LogCook: Display: Cooked packages 145 Packages Remain 103 Total 248
+[2022.06.05-16.08.49:453][  0]LogCook: Display: Cooked packages 145 Packages Remain 102 Total 247
+[2022.06.05-16.08.49:453][  0]LogCook: Display: Cooked packages 145 Packages Remain 101 Total 246
+[2022.06.05-16.08.49:453][  0]LogCook: Display: Cooked packages 145 Packages Remain 100 Total 245
+[2022.06.05-16.08.49:453][  0]LogCook: Display: Cooked packages 145 Packages Remain 99 Total 244
+[2022.06.05-16.08.49:453][  0]LogCook: Display: Cooked packages 145 Packages Remain 98 Total 243
+[2022.06.05-16.08.49:454][  0]LogCook: Display: Cooked packages 145 Packages Remain 97 Total 242
+[2022.06.05-16.08.49:454][  0]LogCook: Display: Cooked packages 145 Packages Remain 96 Total 241
+[2022.06.05-16.08.49:454][  0]LogCook: Display: Cooked packages 145 Packages Remain 95 Total 240
+[2022.06.05-16.08.49:454][  0]LogCook: Display: Cooked packages 145 Packages Remain 94 Total 239
+[2022.06.05-16.08.49:454][  0]LogCook: Display: Cooked packages 145 Packages Remain 93 Total 238
+[2022.06.05-16.08.49:454][  0]LogCook: Display: Cooked packages 145 Packages Remain 92 Total 237
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 91 Total 236
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 90 Total 235
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 89 Total 234
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 88 Total 233
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 87 Total 232
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 86 Total 231
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 85 Total 230
+[2022.06.05-16.08.49:455][  0]LogCook: Display: Cooked packages 145 Packages Remain 84 Total 229
+[2022.06.05-16.08.49:456][  0]LogCook: Display: Cooked packages 145 Packages Remain 83 Total 228
+[2022.06.05-16.08.49:456][  0]LogCook: Display: Cooked packages 145 Packages Remain 82 Total 227
+[2022.06.05-16.08.49:456][  0]LogCook: Display: Cooked packages 145 Packages Remain 81 Total 226
+[2022.06.05-16.08.49:456][  0]LogCook: Display: Cooked packages 145 Packages Remain 80 Total 225
+[2022.06.05-16.08.49:456][  0]LogCook: Display: Cooked packages 145 Packages Remain 79 Total 224
+[2022.06.05-16.08.49:456][  0]LogCook: Display: Cooked packages 145 Packages Remain 78 Total 223
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 77 Total 222
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 76 Total 221
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 75 Total 220
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 74 Total 219
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 73 Total 218
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 72 Total 217
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 71 Total 216
+[2022.06.05-16.08.49:457][  0]LogCook: Display: Cooked packages 145 Packages Remain 70 Total 215
+[2022.06.05-16.08.49:458][  0]LogCook: Display: Cooked packages 145 Packages Remain 69 Total 214
+[2022.06.05-16.08.49:458][  0]LogCook: Display: Cooked packages 145 Packages Remain 68 Total 213
+[2022.06.05-16.08.49:458][  0]LogCook: Display: Cooked packages 145 Packages Remain 67 Total 212
+[2022.06.05-16.08.49:458][  0]LogCook: Display: Cooked packages 145 Packages Remain 66 Total 211
+[2022.06.05-16.08.49:458][  0]LogCook: Display: Cooked packages 145 Packages Remain 65 Total 210
+[2022.06.05-16.08.49:458][  0]LogCook: Display: Cooked packages 145 Packages Remain 64 Total 209
+[2022.06.05-16.08.49:458][  0]LogCook: Display: Cooked packages 145 Packages Remain 63 Total 208
+[2022.06.05-16.08.49:459][  0]LogCook: Display: Cooked packages 145 Packages Remain 62 Total 207
+[2022.06.05-16.08.49:459][  0]LogCook: Display: Cooked packages 145 Packages Remain 61 Total 206
+[2022.06.05-16.08.49:459][  0]LogCook: Display: Cooked packages 145 Packages Remain 60 Total 205
+[2022.06.05-16.08.49:459][  0]LogCook: Display: Cooked packages 145 Packages Remain 59 Total 204
+[2022.06.05-16.08.49:459][  0]LogCook: Display: Cooked packages 145 Packages Remain 58 Total 203
+[2022.06.05-16.08.49:459][  0]LogCook: Display: Cooked packages 145 Packages Remain 57 Total 202
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 56 Total 201
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 55 Total 200
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 54 Total 199
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 53 Total 198
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 52 Total 197
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 51 Total 196
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 50 Total 195
+[2022.06.05-16.08.49:460][  0]LogCook: Display: Cooked packages 145 Packages Remain 49 Total 194
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 48 Total 193
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 47 Total 192
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 46 Total 191
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 45 Total 190
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 44 Total 189
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 43 Total 188
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 42 Total 187
+[2022.06.05-16.08.49:461][  0]LogCook: Display: Cooked packages 145 Packages Remain 41 Total 186
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 40 Total 185
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 39 Total 184
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 38 Total 183
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 37 Total 182
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 36 Total 181
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 35 Total 180
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 34 Total 179
+[2022.06.05-16.08.49:462][  0]LogCook: Display: Cooked packages 145 Packages Remain 33 Total 178
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 32 Total 177
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 31 Total 176
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 30 Total 175
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 29 Total 174
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 28 Total 173
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 27 Total 172
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 26 Total 171
+[2022.06.05-16.08.49:463][  0]LogCook: Display: Cooked packages 145 Packages Remain 25 Total 170
+[2022.06.05-16.08.49:464][  0]LogCook: Display: Cooked packages 145 Packages Remain 24 Total 169
+[2022.06.05-16.08.49:464][  0]LogCook: Display: Cooked packages 145 Packages Remain 23 Total 168
+[2022.06.05-16.08.49:464][  0]LogCook: Display: Cooked packages 145 Packages Remain 22 Total 167
+[2022.06.05-16.08.49:464][  0]LogCook: Display: Cooked packages 145 Packages Remain 21 Total 166
+[2022.06.05-16.08.49:464][  0]LogCook: Display: Cooked packages 145 Packages Remain 20 Total 165
+[2022.06.05-16.08.49:465][  0]LogCook: Display: Cooked packages 145 Packages Remain 19 Total 164
+[2022.06.05-16.08.49:469][  0]LogCook: Display: Cooked packages 148 Packages Remain 18 Total 166
+[2022.06.05-16.08.49:490][  0]LogCook: Display: Cooked packages 159 Packages Remain 17 Total 176
+[2022.06.05-16.08.49:502][  0]LogAIModule: Creating AISystem for world Entry
+[2022.06.05-16.08.49:518][  0]LogCook: Display: Cooked packages 164 Packages Remain 16 Total 180
+[2022.06.05-16.08.50:516][  0]LogAIModule: Creating AISystem for world practice_map
+[2022.06.05-16.08.50:756][  0]LogCook: Display: Cooked packages 185 Packages Remain 149 Total 334
+[2022.06.05-16.08.50:756][  0]LogCook: Display: Cooked packages 185 Packages Remain 148 Total 333
+[2022.06.05-16.08.50:756][  0]LogCook: Display: Cooked packages 185 Packages Remain 147 Total 332
+[2022.06.05-16.08.50:757][  0]LogCook: Display: Cooked packages 185 Packages Remain 146 Total 331
+[2022.06.05-16.08.50:757][  0]LogCook: Display: Cooked packages 185 Packages Remain 145 Total 330
+[2022.06.05-16.08.50:757][  0]LogCook: Display: Cooked packages 185 Packages Remain 144 Total 329
+[2022.06.05-16.08.50:757][  0]LogCook: Display: Cooked packages 185 Packages Remain 143 Total 328
+[2022.06.05-16.08.50:757][  0]LogCook: Display: Cooked packages 185 Packages Remain 142 Total 327
+[2022.06.05-16.08.50:758][  0]LogCook: Display: Cooked packages 185 Packages Remain 141 Total 326
+[2022.06.05-16.08.50:758][  0]LogCook: Display: Cooked packages 185 Packages Remain 140 Total 325
+[2022.06.05-16.08.50:758][  0]LogCook: Display: Cooked packages 185 Packages Remain 139 Total 324
+[2022.06.05-16.08.50:758][  0]LogCook: Display: Cooked packages 185 Packages Remain 138 Total 323
+[2022.06.05-16.08.50:758][  0]LogCook: Display: Cooked packages 185 Packages Remain 137 Total 322
+[2022.06.05-16.08.50:759][  0]LogCook: Display: Cooked packages 185 Packages Remain 136 Total 321
+[2022.06.05-16.08.50:759][  0]LogCook: Display: Cooked packages 185 Packages Remain 135 Total 320
+[2022.06.05-16.08.50:759][  0]LogCook: Display: Cooked packages 185 Packages Remain 134 Total 319
+[2022.06.05-16.08.50:956][  0]LogCook: Display: Cooked packages 235 Packages Remain 136 Total 371
+[2022.06.05-16.08.50:956][  0]LogCook: Display: Cooked packages 235 Packages Remain 135 Total 370
+[2022.06.05-16.08.50:956][  0]LogCook: Display: Cooked packages 235 Packages Remain 134 Total 369
+[2022.06.05-16.08.50:957][  0]LogCook: Display: Cooked packages 235 Packages Remain 133 Total 368
+[2022.06.05-16.08.50:957][  0]LogCook: Display: Cooked packages 235 Packages Remain 132 Total 367
+[2022.06.05-16.08.50:957][  0]LogCook: Display: Cooked packages 235 Packages Remain 131 Total 366
+[2022.06.05-16.08.50:957][  0]LogCook: Display: Cooked packages 235 Packages Remain 130 Total 365
+[2022.06.05-16.08.50:957][  0]LogCook: Display: Cooked packages 235 Packages Remain 129 Total 364
+[2022.06.05-16.08.50:958][  0]LogCook: Display: Cooked packages 235 Packages Remain 128 Total 363
+[2022.06.05-16.08.50:958][  0]LogCook: Display: Cooked packages 235 Packages Remain 127 Total 362
+[2022.06.05-16.08.50:958][  0]LogCook: Display: Cooked packages 235 Packages Remain 126 Total 361
+[2022.06.05-16.08.50:958][  0]LogCook: Display: Cooked packages 235 Packages Remain 125 Total 360
+[2022.06.05-16.08.50:958][  0]LogCook: Display: Cooked packages 235 Packages Remain 124 Total 359
+[2022.06.05-16.08.50:958][  0]LogCook: Display: Cooked packages 235 Packages Remain 123 Total 358
+[2022.06.05-16.08.50:959][  0]LogCook: Display: Cooked packages 235 Packages Remain 122 Total 357
+[2022.06.05-16.08.50:959][  0]LogCook: Display: Cooked packages 235 Packages Remain 121 Total 356
+[2022.06.05-16.08.50:959][  0]LogCook: Display: Cooked packages 235 Packages Remain 120 Total 355
+[2022.06.05-16.08.50:959][  0]LogCook: Display: Cooked packages 235 Packages Remain 119 Total 354
+[2022.06.05-16.08.50:959][  0]LogCook: Display: Cooked packages 235 Packages Remain 118 Total 353
+[2022.06.05-16.08.50:959][  0]LogCook: Display: Cooked packages 235 Packages Remain 117 Total 352
+[2022.06.05-16.08.50:959][  0]LogCook: Display: Cooked packages 235 Packages Remain 116 Total 351
+[2022.06.05-16.08.50:960][  0]LogCook: Display: Cooked packages 235 Packages Remain 115 Total 350
+[2022.06.05-16.08.50:960][  0]LogCook: Display: Cooked packages 235 Packages Remain 114 Total 349
+[2022.06.05-16.08.50:960][  0]LogCook: Display: Cooked packages 235 Packages Remain 113 Total 348
+[2022.06.05-16.08.50:960][  0]LogCook: Display: Cooked packages 235 Packages Remain 112 Total 347
+[2022.06.05-16.08.50:960][  0]LogCook: Display: Cooked packages 235 Packages Remain 111 Total 346
+[2022.06.05-16.08.50:960][  0]LogCook: Display: Cooked packages 235 Packages Remain 110 Total 345
+[2022.06.05-16.08.50:960][  0]LogCook: Display: Cooked packages 235 Packages Remain 109 Total 344
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 108 Total 343
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 107 Total 342
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 106 Total 341
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 105 Total 340
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 104 Total 339
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 103 Total 338
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 102 Total 337
+[2022.06.05-16.08.50:961][  0]LogCook: Display: Cooked packages 235 Packages Remain 101 Total 336
+[2022.06.05-16.08.51:355][  0]LogCook: Display: Cooked packages 285 Packages Remain 100 Total 385
+[2022.06.05-16.08.51:356][  0]LogCook: Display: Cooked packages 285 Packages Remain 99 Total 384
+[2022.06.05-16.08.51:356][  0]LogCook: Display: Cooked packages 285 Packages Remain 98 Total 383
+[2022.06.05-16.08.51:356][  0]LogCook: Display: Cooked packages 285 Packages Remain 97 Total 382
+[2022.06.05-16.08.51:356][  0]LogCook: Display: Cooked packages 285 Packages Remain 96 Total 381
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 95 Total 380
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 94 Total 379
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 93 Total 378
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 92 Total 377
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 91 Total 376
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 90 Total 375
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 89 Total 374
+[2022.06.05-16.08.51:357][  0]LogCook: Display: Cooked packages 285 Packages Remain 88 Total 373
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 87 Total 372
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 86 Total 371
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 85 Total 370
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 84 Total 369
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 83 Total 368
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 82 Total 367
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 81 Total 366
+[2022.06.05-16.08.51:358][  0]LogCook: Display: Cooked packages 285 Packages Remain 80 Total 365
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 79 Total 364
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 78 Total 363
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 77 Total 362
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 76 Total 361
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 75 Total 360
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 74 Total 359
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 73 Total 358
+[2022.06.05-16.08.51:359][  0]LogCook: Display: Cooked packages 285 Packages Remain 72 Total 357
+[2022.06.05-16.08.51:360][  0]LogCook: Display: Cooked packages 285 Packages Remain 71 Total 356
+[2022.06.05-16.08.51:360][  0]LogCook: Display: Cooked packages 285 Packages Remain 70 Total 355
+[2022.06.05-16.08.51:360][  0]LogCook: Display: Cooked packages 285 Packages Remain 69 Total 354
+[2022.06.05-16.08.51:360][  0]LogCook: Display: Cooked packages 285 Packages Remain 68 Total 353
+[2022.06.05-16.08.51:361][  0]LogCook: Display: Cooked packages 285 Packages Remain 67 Total 352
+[2022.06.05-16.08.51:361][  0]LogCook: Display: Cooked packages 285 Packages Remain 66 Total 351
+[2022.06.05-16.08.51:361][  0]LogCook: Display: Cooked packages 285 Packages Remain 65 Total 350
+[2022.06.05-16.08.51:361][  0]LogCook: Display: Cooked packages 285 Packages Remain 64 Total 349
+[2022.06.05-16.08.51:361][  0]LogCook: Display: Cooked packages 285 Packages Remain 63 Total 348
+[2022.06.05-16.08.51:361][  0]LogCook: Display: Cooked packages 285 Packages Remain 62 Total 347
+[2022.06.05-16.08.51:361][  0]LogCook: Display: Cooked packages 285 Packages Remain 61 Total 346
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 60 Total 345
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 59 Total 344
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 58 Total 343
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 57 Total 342
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 56 Total 341
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 55 Total 340
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 54 Total 339
+[2022.06.05-16.08.51:362][  0]LogCook: Display: Cooked packages 285 Packages Remain 53 Total 338
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 52 Total 337
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 51 Total 336
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 50 Total 335
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 49 Total 334
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 48 Total 333
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 47 Total 332
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 46 Total 331
+[2022.06.05-16.08.51:363][  0]LogCook: Display: Cooked packages 285 Packages Remain 45 Total 330
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 44 Total 329
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 43 Total 328
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 42 Total 327
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 41 Total 326
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 40 Total 325
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 39 Total 324
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 38 Total 323
+[2022.06.05-16.08.51:364][  0]LogCook: Display: Cooked packages 285 Packages Remain 37 Total 322
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 36 Total 357
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 35 Total 356
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 34 Total 355
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 33 Total 354
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 32 Total 353
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 31 Total 352
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 30 Total 351
+[2022.06.05-16.08.51:566][  0]LogCook: Display: Cooked packages 321 Packages Remain 29 Total 350
+[2022.06.05-16.08.51:567][  0]LogCook: Display: Cooked packages 321 Packages Remain 28 Total 349
+[2022.06.05-16.08.51:567][  0]LogCook: Display: Cooked packages 321 Packages Remain 27 Total 348
+[2022.06.05-16.08.51:567][  0]LogCook: Display: Cooked packages 321 Packages Remain 26 Total 347
+[2022.06.05-16.08.51:567][  0]LogCook: Display: Cooked packages 321 Packages Remain 25 Total 346
+[2022.06.05-16.08.51:567][  0]LogCook: Display: Cooked packages 321 Packages Remain 24 Total 345
+[2022.06.05-16.08.51:567][  0]LogCook: Display: Cooked packages 321 Packages Remain 23 Total 344
+[2022.06.05-16.08.51:568][  0]LogCook: Display: Cooked packages 321 Packages Remain 22 Total 343
+[2022.06.05-16.08.51:568][  0]LogCook: Display: Cooked packages 321 Packages Remain 21 Total 342
+[2022.06.05-16.08.51:568][  0]LogCook: Display: Cooked packages 321 Packages Remain 20 Total 341
+[2022.06.05-16.08.51:568][  0]LogCook: Display: Cooked packages 321 Packages Remain 19 Total 340
+[2022.06.05-16.08.51:568][  0]LogCook: Display: Cooked packages 321 Packages Remain 18 Total 339
+[2022.06.05-16.08.51:568][  0]LogCook: Display: Cooked packages 321 Packages Remain 17 Total 338
+[2022.06.05-16.08.51:569][  0]LogCook: Display: Cooked packages 321 Packages Remain 16 Total 337
+[2022.06.05-16.08.51:569][  0]LogCook: Display: Cooked packages 321 Packages Remain 15 Total 336
+[2022.06.05-16.08.51:569][  0]LogCook: Display: Cooked packages 321 Packages Remain 14 Total 335
+[2022.06.05-16.08.51:569][  0]LogCook: Display: Cooked packages 321 Packages Remain 13 Total 334
+[2022.06.05-16.08.51:569][  0]LogCook: Display: Cooked packages 321 Packages Remain 12 Total 333
+[2022.06.05-16.08.51:569][  0]LogCook: Display: Cooked packages 321 Packages Remain 11 Total 332
+[2022.06.05-16.08.51:570][  0]LogCook: Display: Cooked packages 321 Packages Remain 10 Total 331
+[2022.06.05-16.08.51:570][  0]LogCook: Display: Cooked packages 321 Packages Remain 9 Total 330
+[2022.06.05-16.08.51:570][  0]LogCook: Display: Cooked packages 321 Packages Remain 8 Total 329
+[2022.06.05-16.08.51:570][  0]LogCook: Display: Cooked packages 321 Packages Remain 7 Total 328
+[2022.06.05-16.08.51:570][  0]LogCook: Display: Cooked packages 321 Packages Remain 6 Total 327
+[2022.06.05-16.08.51:570][  0]LogCook: Display: Cooked packages 321 Packages Remain 5 Total 326
+[2022.06.05-16.08.51:570][  0]LogCook: Display: Cooked packages 321 Packages Remain 4 Total 325
+[2022.06.05-16.08.51:571][  0]LogCook: Display: Cooked packages 321 Packages Remain 3 Total 324
+[2022.06.05-16.08.51:571][  0]LogCook: Display: Cooked packages 321 Packages Remain 2 Total 323
+[2022.06.05-16.08.51:571][  0]LogCook: Display: Cooked packages 321 Packages Remain 1 Total 322
+[2022.06.05-16.08.51:573][  0]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.06.05-16.08.51:573][  0]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.06.05-16.08.51:573][  0]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.06.05-16.08.51:662][  0]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2022.06.05-16.08.51:662][  0]LogAssetRegistryGenerator: Chunk: 0, Started with 319 packages, Final after dependency resolve: 319
+[2022.06.05-16.08.51:662][  0]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2022.06.05-16.08.51:662][  0]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2022.06.05-16.08.51:675][  0]LogAssetRegistryGenerator: Display: Generated asset registry num assets 319, size is 134.60kb
+[2022.06.05-16.08.51:675][  0]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.06.05-16.08.51:687][  0]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2022.06.05-16.08.51:687][  0]LogAssetRegistryGenerator: Chunk: 0, Started with 316 packages, Final after dependency resolve: 316
+[2022.06.05-16.08.51:687][  0]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2022.06.05-16.08.51:687][  0]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2022.06.05-16.08.51:699][  0]LogAssetRegistryGenerator: Display: Generated asset registry num assets 316, size is 134.08kb
+[2022.06.05-16.08.51:699][  0]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.06.05-16.08.51:700][  0]LogCook: Display: Cook by the book total time in tick 2.765980s total time 4.391326
+[2022.06.05-16.08.51:701][  0]LogCook: Display: Peak Used virtual 776MB Peak Used physical 772MB
+[2022.06.05-16.08.51:701][  0]LogCook: Display: Hierarchy Timer Information:
+[2022.06.05-16.08.51:701][  0]LogCook: Display:   Root: 0.000s (0)
+[2022.06.05-16.08.51:701][  0]LogCook: Display:     StartCookByTheBookTime: 1.489s (1)
+[2022.06.05-16.08.51:701][  0]LogCook: Display:       GenerateAssetRegistryTime: 0.120s (1)
+[2022.06.05-16.08.51:701][  0]LogCook: Display:       CleanSandboxTime: 0.236s (1)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:         ProcessingAccessedStrings: 0.022s (2)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:       CollectFilesToCook: 0.186s (1)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:         SearchForPackageOnDisk: 0.000s (1)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:     TickCookOnTheSide: 2.721s (30)
+[2022.06.05-16.08.51:702][  0]LogCook: Display:       LoadPackage: 1.027s (27)
+[2022.06.05-16.08.51:703][  0]LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.039s (30)
+[2022.06.05-16.08.51:703][  0]LogCook: Display:       PostLoadPackageFixup: 0.000s (30)
+[2022.06.05-16.08.51:703][  0]LogCook: Display:       SavingPackages: 1.653s (15)
+[2022.06.05-16.08.51:703][  0]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.004s (315)
+[2022.06.05-16.08.51:703][  0]LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.296s (309)
+[2022.06.05-16.08.51:703][  0]LogCook: Display:         SaveCookedPackage: 1.340s (321)
+[2022.06.05-16.08.51:704][  0]LogCook: Display:           LoadPackage: 0.001s (642)
+[2022.06.05-16.08.51:704][  0]LogCook: Display:           GEditorSavePackage: 1.318s (642)
+[2022.06.05-16.08.51:704][  0]LogCook: Display:             ConvertingBlueprints: 0.015s (642)
+[2022.06.05-16.08.51:704][  0]LogCook: Display:             VerifyCanCookPackage: 0.002s (635)
+[2022.06.05-16.08.51:704][  0]LogCook: Display:         ClearAllCachedCookedPlatformData: 0.002s (321)
+[2022.06.05-16.08.51:704][  0]LogCook: Display:         EnqueueUnsavedPackages: 0.000s (5)
+[2022.06.05-16.08.51:704][  0]LogCook: Display:     GeneratingBlueprintAssets: 0.002s (1)
+[2022.06.05-16.08.51:705][  0]LogCook: Display:     SavingCurrentIniSettings: 0.078s (1)
+[2022.06.05-16.08.51:705][  0]LogCook: Display:       ProcessingAccessedStrings: 0.021s (2)
+[2022.06.05-16.08.51:705][  0]LogCook: Display:     SavingAssetRegistry: 0.049s (1)
+[2022.06.05-16.08.51:705][  0]LogCook: Display:       BuildChunkManifest: 0.022s (2)
+[2022.06.05-16.08.51:705][  0]LogCook: Display:       SaveManifests: 0.000s (2)
+[2022.06.05-16.08.51:705][  0]LogCook: Display:       SaveRealAssetRegistry: 0.025s (2)
+[2022.06.05-16.08.51:705][  0]LogCook: Display:       WriteCookerOpenOrder: 0.002s (2)
+[2022.06.05-16.08.51:705][  0]LogCookCommandlet: Display: Misc Cook Stats
+[2022.06.05-16.08.51:706][  0]LogCookCommandlet: Display: ===============
+[2022.06.05-16.08.51:706][  0]LogCookCommandlet: Display: ShaderCompiler
+[2022.06.05-16.08.51:706][  0]LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2022.06.05-16.08.51:706][  0]LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.06.05-16.08.51:706][  0]LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.06.05-16.08.51:706][  0]LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.06.05-16.08.51:706][  0]LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000049
+[2022.06.05-16.08.51:707][  0]LogCookCommandlet: Display: GlobalShader.Misc
+[2022.06.05-16.08.51:707][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.06.05-16.08.51:707][  0]LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.06.05-16.08.51:707][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.06.05-16.08.51:707][  0]LogCookCommandlet: Display: MaterialShader.Misc
+[2022.06.05-16.08.51:707][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.06.05-16.08.51:707][  0]LogCookCommandlet: Display: Package.Load
+[2022.06.05-16.08.51:708][  0]LogCookCommandlet: Display:     NumPackagesLoaded=138
+[2022.06.05-16.08.51:708][  0]LogCookCommandlet: Display:     LoadPackageTimeSec=1.462460
+[2022.06.05-16.08.51:708][  0]LogCookCommandlet: Display: Package.Save
+[2022.06.05-16.08.51:708][  0]LogCookCommandlet: Display:     NumPackagesSaved=642
+[2022.06.05-16.08.51:708][  0]LogCookCommandlet: Display:     SavePackageTimeSec=1.251024
+[2022.06.05-16.08.51:708][  0]LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.240098
+[2022.06.05-16.08.51:709][  0]LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.075853
+[2022.06.05-16.08.51:709][  0]LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001874
+[2022.06.05-16.08.51:709][  0]LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.006919
+[2022.06.05-16.08.51:709][  0]LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000436
+[2022.06.05-16.08.51:709][  0]LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.06.05-16.08.51:709][  0]LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.120233
+[2022.06.05-16.08.51:710][  0]LogCookCommandlet: Display:     SerializeExportsTimeSec=0.169398
+[2022.06.05-16.08.51:710][  0]LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.007406
+[2022.06.05-16.08.51:710][  0]LogCookCommandlet: Display:     AsyncWriteTimeSec=0.310933
+[2022.06.05-16.08.51:710][  0]LogCookCommandlet: Display:     MBWritten=173.001349
+[2022.06.05-16.08.51:710][  0]LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.06.05-16.08.51:710][  0]LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.06.05-16.08.51:710][  0]LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display: Package.DiffTotal
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display: 
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display: Cook Profile
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display: ============
+[2022.06.05-16.08.51:711][  0]LogCookCommandlet: Display:  0.CookWallTimeSec=11.814836
+[2022.06.05-16.08.51:712][  0]LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=7.415842
+[2022.06.05-16.08.51:712][  0]LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=4.398978
+[2022.06.05-16.08.51:712][  0]LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.488784
+[2022.06.05-16.08.51:712][  0]LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000016
+[2022.06.05-16.08.51:712][  0]LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=2.900480
+[2022.06.05-16.08.51:712][  0]LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.027626
+[2022.06.05-16.08.51:712][  0]LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.339586
+[2022.06.05-16.08.51:713][  0]LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.06.05-16.08.51:713][  0]LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.338967
+[2022.06.05-16.08.51:713][  0]LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.007823
+[2022.06.05-16.08.51:713][  0]LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.06.05-16.08.51:713][  0]LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000024
+[2022.06.05-16.08.51:713][  0]LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000012
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000026
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000003
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display: 
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display: DDC Summary Stats
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display: =================
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display: TotalGetHits  =      1146
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display: TotalGets     =      1146
+[2022.06.05-16.08.51:714][  0]LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: LocalGetHitPct=  0.751309
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: OtherGetHitPct=  0.248691
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: TotalPutHits  =         0
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: TotalPuts     =         0
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2022.06.05-16.08.51:715][  0]LogCookCommandlet: Display: 
+[2022.06.05-16.08.51:716][  0]LogCookCommandlet: Display: DDC Resource Stats
+[2022.06.05-16.08.51:716][  0]LogCookCommandlet: Display: =======================================================================================================
+[2022.06.05-16.08.51:716][  0]LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.06.05-16.08.51:716][  0]LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.06.05-16.08.51:716][  0]LogCookCommandlet: Display: PhysX (BodySetup)                               0.18                   0.18             0        102.12
+[2022.06.05-16.08.51:716][  0]LogCookCommandlet: Display: StaticMesh                                      0.17                   0.17             0         83.51
+[2022.06.05-16.08.51:717][  0]LogCookCommandlet: Display: MaterialShader                                  0.07                   0.07             0          6.86
+[2022.06.05-16.08.51:717][  0]LogCookCommandlet: Display: Texture (Inline)                                0.05                   0.05             0         33.62
+[2022.06.05-16.08.51:717][  0]LogCookCommandlet: Display: Texture (Streaming)                             0.03                   0.00             0         19.68
+[2022.06.05-16.08.51:717][  0]LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.03
+[2022.06.05-16.08.51:717][  0]LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          3.12
+[2022.06.05-16.08.51:718][  0]LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.06.05-16.08.51:718][  0]LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.03
+[2022.06.05-16.08.51:718][  0]LogInit: Display: 
+[2022.06.05-16.08.51:718][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2022.06.05-16.08.51:718][  0]LogInit: Display: -----------------------------------
+[2022.06.05-16.08.51:718][  0]LogInit: Display: LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2022.06.05-16.08.51:719][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.06.05-16.08.51:719][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.06.05-16.08.51:719][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.06.05-16.08.51:719][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.06.05-16.08.51:719][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.06.05-16.08.51:720][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.06.05-16.08.51:720][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.06.05-16.08.51:720][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.06.05-16.08.51:721][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.06.05-16.08.51:721][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.06.05-16.08.51:721][  0]LogInit: Display: 
+[2022.06.05-16.08.51:721][  0]LogInit: Display: Success - 0 error(s), 12 warning(s)
+[2022.06.05-16.08.51:721][  0]LogInit: Display: 
+Execution of commandlet took:  4.41 seconds
+[2022.06.05-16.08.51:724][  0]LogExit: Preparing to exit.
+[2022.06.05-16.08.51:744][  0]LogExit: Editor shut down
+[2022.06.05-16.08.51:794][  0]LogExit: Object subsystem successfully closed.
+[2022.06.05-16.08.51:811][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.05-16.08.51:817][  0]LogModuleManager: Shutting down and abandoning module BlueprintCompilerCppBackend (472)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module CustomMapTools (468)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module SteamAudioEditor (466)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (464)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (462)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (460)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module PlacementMode (459)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module MaterialEditor (458)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (454)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (452)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (450)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (448)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (446)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (444)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module SequenceRecorder (443)
+[2022.06.05-16.08.51:818][  0]LogModuleManager: Shutting down and abandoning module Persona (442)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (441)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module AnimGraph (439)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (434)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (432)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (430)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (428)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (426)
+[2022.06.05-16.08.51:819][  0]LogModuleManager: Shutting down and abandoning module Media (425)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (422)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (420)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module CharacterAI (418)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module SmartSnapping (416)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (414)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module MovieScene (412)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (410)
+[2022.06.05-16.08.51:825][  0]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AIModule (406)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module GameplayDebugger (405)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AITestSuite (403)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module NavigationSystem (401)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module JsonUtils (398)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module PavlovProxy (396)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2022.06.05-16.08.51:827][  0]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module Settings (300)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module SteamAudio (296)
+[2022.06.05-16.08.51:828][  0]LogSteamAudio: FSteamAudioModule Shutdown
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (284)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module ApexDestruction (282)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module ActorSequence (280)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module UdpMessaging (278)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module TcpMessaging (276)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (274)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (270)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module FacialAnimation (268)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module DataValidation (266)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (264)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module TreeMap (263)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (260)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module AISupportModule (258)
+[2022.06.05-16.08.51:828][  0]LogModuleManager: Shutting down and abandoning module Paper2D (256)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module PacketHandler (254)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (252)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (250)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module MediaAssets (248)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module Overlay (246)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module OverlayEditor (245)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module Blutility (242)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module LevelEditor (241)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (240)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (238)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module MainFrame (236)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module HotReload (235)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module ContentBrowser (231)
+[2022.06.05-16.08.51:829][  0]LogModuleManager: Shutting down and abandoning module CollectionManager (230)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module IntroTutorials (226)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (224)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module VREditor (222)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module StringTableEditor (220)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (218)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (216)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module FunctionalTesting (214)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (212)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (211)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module UMG (208)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module UMGEditor (207)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module Sequencer (206)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module MessageLog (203)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module SlateReflector (198)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module Slate (196)
+[2022.06.05-16.08.51:830][  0]LogModuleManager: Shutting down and abandoning module EditorStyle (194)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module MRMesh (192)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (190)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (188)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module XAudio2 (186)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module Networking (184)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module Core (182)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module LevelSequence (180)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module KismetCompiler (178)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module MeshUtilities (176)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (175)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (174)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (173)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (171)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (169)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (159)
+[2022.06.05-16.08.51:831][  0]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2022.06.05-16.08.52:265][  0]LogDerivedDataCache: Shutdown
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2022.06.05-16.08.52:265][  0]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (121)
+[2022.06.05-16.08.52:266][  0]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2022.06.05-16.08.52:266][  0]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2022.06.05-16.08.52:266][  0]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2022.06.05-16.08.52:266][  0]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2022.06.05-16.08.52:266][  0]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2022.06.05-16.08.52:266][  0]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2022.06.05-16.08.52:266][  0]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2022.06.05-16.08.52:267][  0]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2022.06.05-16.08.52:267][  0]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (101)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (99)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (97)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (95)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (93)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (91)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (89)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (87)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (85)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module NullDrv (82)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module PhysXCooking (80)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2022.06.05-16.08.52:271][  0]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2022.06.05-16.08.52:272][  0]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2022.06.05-16.08.52:272][  0]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2022.06.05-16.08.52:297][  0]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2022.06.05-16.08.52:331][  0]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2022.06.05-16.08.52:332][  0]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2022.06.05-16.08.52:333][  0]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2022.06.05-16.08.52:342][  0]LogExit: Exiting.
+[2022.06.05-16.08.52:352][  0]Log file closed, 06/05/22 12:08:52
